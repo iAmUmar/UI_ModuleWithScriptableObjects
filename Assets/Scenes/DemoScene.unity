@@ -419,7 +419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelToOpen: {fileID: 1560805476}
   panelToClose: {fileID: 336438906}
-  panelChangeChannelObj: {fileID: 11400000, guid: 23c40f64fe566ab4e8bc99eb99ec5888,
+  panelChangeChannelObj: {fileID: 11400000, guid: d2e1ffdc1af483c4288de18bed168278,
     type: 2}
 --- !u!1 &235654376
 GameObject:
@@ -990,7 +990,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelToOpen: {fileID: 169626075}
   panelToClose: {fileID: 1560805476}
-  panelChangeChannelObj: {fileID: 11400000, guid: 23c40f64fe566ab4e8bc99eb99ec5888,
+  panelChangeChannelObj: {fileID: 11400000, guid: d2e1ffdc1af483c4288de18bed168278,
     type: 2}
 --- !u!1 &838328422
 GameObject:
@@ -1137,7 +1137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelToOpen: {fileID: 235654376}
   panelToClose: {fileID: 169626075}
-  panelChangeChannelObj: {fileID: 11400000, guid: 23c40f64fe566ab4e8bc99eb99ec5888,
+  panelChangeChannelObj: {fileID: 11400000, guid: d2e1ffdc1af483c4288de18bed168278,
     type: 2}
 --- !u!1 &893124668
 GameObject:
@@ -1523,7 +1523,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelToOpen: {fileID: 336438906}
   panelToClose: {fileID: 235654376}
-  panelChangeChannelObj: {fileID: 11400000, guid: 23c40f64fe566ab4e8bc99eb99ec5888,
+  panelChangeChannelObj: {fileID: 11400000, guid: d2e1ffdc1af483c4288de18bed168278,
     type: 2}
 --- !u!1 &1252621980
 GameObject:
@@ -1579,7 +1579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelToOpen: {fileID: 1515844703}
   panelToClose: {fileID: 0}
-  panelChangeChannelObj: {fileID: 11400000, guid: 438313ac50a5b654d8613b94a84bca4c,
+  panelChangeChannelObj: {fileID: 11400000, guid: 5688c24513b3537498bcd197cf1e4bf3,
     type: 2}
 --- !u!114 &1252621983
 MonoBehaviour:
@@ -1870,7 +1870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelToOpen: {fileID: 0}
   panelToClose: {fileID: 1515844703}
-  panelChangeChannelObj: {fileID: 11400000, guid: 65ac7d2b0045a9648bfdafb94bd88212,
+  panelChangeChannelObj: {fileID: 11400000, guid: 061abb4d9c4bb154fb16d2e84f5b6801,
     type: 2}
 --- !u!114 &1426563672
 MonoBehaviour:
